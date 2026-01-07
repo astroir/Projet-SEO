@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Si votre site est servi depuis un autre domaine, remplacez l'URL ci-dessous
+Sitemap: https://astroir.github.io/Projet-SEO/sitemap.xml
